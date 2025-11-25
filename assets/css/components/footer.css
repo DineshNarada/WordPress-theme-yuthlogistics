@@ -1,0 +1,43 @@
+/************************Footer Bottom**********/
+#footer-bottom {
+    color: #414141;
+    font-size: 16px;
+    padding-top: 0;
+    padding-bottom: 15px;
+    background-color: rgba(165, 15, 15, .4);
+}
+#footer-bottom .fb-1, #footer-bottom .fb-site-creater, #footer-bottom .fb-sc-link {
+    display: flex;
+    align-items: center;
+}
+#footer-bottom .fb-1 {
+    justify-content: center;
+    line-height: 1;
+}
+#footer-bottom .copyright-note {
+    margin-bottom: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 100%;
+}
+#footer-bottom .fb-site-creater {
+    white-space: nowrap;
+}
+#footer-bottom .fb-sc-text {
+    margin-right: 10px;
+    position: relative;
+}
+#footer-bottom .fb-sc-link {
+    font-weight: 600;
+    color: #414141;
+}
+#footer-bottom .fb-sc-l-img {
+    max-width: 21px;
+    width: 21px;
+    margin-right: 5px;
+}
+#footer-bottom .fb-sc-l-name {
+    position: relative;
+    top: 1px;
+}
